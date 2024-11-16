@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    soorya.sivaramakrishnan22:
+      email: soorya.sivaramakrishnan22@spit.ac.in
+      name: Soorya Sivaramakrishnan
+      password: '$2b$12$tfjpUs2/dHNXSFi9vApIheV6tJkDsjHQl58L0NHrLNNvLaAe3lnJe' # 2022300122
+    tushar.raja22:
+      email: tushar.raja22@spit.ac.in
+      name: Tushar Raja 
+      password: '$2b$12$/oUBBA2jWhoKKhS6vauvGu.xmf3Zxipnb41b9dSHjiH4/SpuWd2mG' # 2022300130
+cookie:
+  expiry_days: 0.0007
+  key: ndsxhjn # Must be string
+  name: Creds
+preauthorized:
+  emails:
+  - soorya.sivaramakrishnan22@spit.ac.in
